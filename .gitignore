@@ -1,0 +1,6 @@
+# excluded files
+bin/
+obj/
+.vs/
+node_modules/ 
+dist/
